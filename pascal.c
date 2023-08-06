@@ -1,7 +1,6 @@
 // C program to generate pascal triangle using array
 
 #include <stdio.h>
-
 int main()
 {
     int arr[50][50];
